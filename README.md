@@ -1,4 +1,4 @@
-![Untitled Chicken Mod Logo](https://i.imgur.com/TZqd76C.png)
+![Untitled Chicken Mod Logo](https://i.imgur.com/4aFSOaw.png)
 
 # Table of contents
 
