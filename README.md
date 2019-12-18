@@ -20,7 +20,7 @@ Which translates to:
 
 > The term "mod" stands for original work of you or somebody else, which doesn't contain an essential part of our copyrighted code or content.
 
-Basically this means that if I would just release the unchanged source code, that would be an illegal copy of the game meaning that I could potentially get sued. If I make the source code unreadable, (obfuscate it) I'm safe and it counts as a mod, which they allow. The final reason why this repo exists is that so I can automatically update the game. You can manually install the version from the releases, but I encourage the use of the Installer / Updater.
+Basically this means that if I would just release the unchanged source code, that would be an illegal copy of the game meaning that I could potentially get sued. If I make the source code unreadable, (obfuscate it) I'm safe and it counts as a mod, which they allow. The final reason why this repo exists is because I can automatically update the game. You can manually install the version from the releases, but I encourage the use of the [Installer / Updater.](https://github.com/Delta2Force/UntitledChickenMod-Installer)
 
 ## How do I download this mod?
 
