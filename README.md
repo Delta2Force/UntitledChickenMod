@@ -28,6 +28,14 @@ You can download this mod using the [Installer.](https://github.com/Delta2Force/
 
 ## Changelogs
 
+### 1.2
+
+* Fixed a bug causing the notification introduced in version 1.1 to display at all times, even if you own that version.
+
+### 1.1
+
+* Added a feature which would make the game notify you of a new update.
+
 ### 1.0
 
 * Initial release!
